@@ -1,5 +1,3 @@
-# Useful Tips
-### GIT
 # Useful Tips / Tricks
 
 This Repo contains useful info I found throughout the software development process. Each tips are categorized into different Markdown files.
