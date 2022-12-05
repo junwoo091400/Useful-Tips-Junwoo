@@ -13,4 +13,4 @@ This Repo contains useful info I found throughout the software development proce
 > Anything that doesn't fit in the ToC above
 
 1. VSCode
-   1. "Inline Parameters for VSCode" extension: [HERE](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters). This is so useful for visualizing the function argument names. Game changer in a cluttered code!
+   1. Enable "C++ Intellisense > Inlay Hints > Parameter Names" in Settings. Details here if you are confused: [HERE](https://github.com/microsoft/vscode/issues/16221). This is so useful for visualizing the function argument names. Game changer in a cluttered code!
